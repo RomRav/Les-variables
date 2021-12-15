@@ -6,6 +6,7 @@ namespace Exercice1
     {
         static void Main(string[] args)
         {
+            //Addition de deux variables contenant des entiers et affichage des ces variables dans des chaines de caractére.
             int firstNumber = 5;
             int secondNumber = 45;
             int additionResult = firstNumber + secondNumber;
