@@ -1,0 +1,14 @@
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.exe
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.deps.json
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.runtimeconfig.json
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.runtimeconfig.dev.json
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.dll
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\bin\Debug\netcoreapp3.1\Exercice1.pdb
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.csproj.AssemblyReference.cache
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.AssemblyInfoInputs.cache
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.AssemblyInfo.cs
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.csproj.CoreCompileInputs.cache
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.dll
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.pdb
+C:\romain\LaManu\Exercice1\Exercice1\Exercice1\obj\Debug\netcoreapp3.1\Exercice1.genruntimeconfig.cache
