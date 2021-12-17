@@ -6,7 +6,7 @@ namespace Exercice4
     {
         static void Main(string[] args)
         {
-			//Affichage dans une chaine de caractére de trois varaibles.
+			//Affichage dans une chaine de caractére de trois variables.
             string title = "Monsieur";
             string firstName = "Vincent";
             int hasCome = 1;

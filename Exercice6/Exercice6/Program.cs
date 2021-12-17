@@ -15,7 +15,7 @@ namespace Exercice6
             int birthYear = Convert.ToInt32(Console.ReadLine());
             int curentYear = DateTime.Now.Year;
 			//Affichage dans une chaîne de caractére des variables et calcule grâce à la date du jour de l'age de l'utilisateur.
-            Console.WriteLine($@"Fiches de renseignement:{Environment.NewLine}*Nom: {lastName}{Environment.NewLine}*Prenom: {lastName}{Environment.NewLine}*Age: {curentYear-birthYear} ");
+            Console.WriteLine($@"Fiches de renseignement :{Environment.NewLine}*Nom : {lastName}{Environment.NewLine}*Prenom : {lastName}{Environment.NewLine}*Age : {curentYear-birthYear} ");
         }
     }
 }
